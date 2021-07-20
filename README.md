@@ -6,7 +6,7 @@ Projeto desenvolvido na 4ª NLW da [Rocketseat](https://rocketseat.com.br/).
 
 ## 🧩 Sobre o projeto
 
-- Desenvolvido utilizando Next.Js e Node.Js. Este projeto é uma aplicação inspirada no método pomodoro, onde foi aplicado uma gamificação para tornalo mais atrativo.**
+- Desenvolvido utilizando Next.Js e Node.Js. Este projeto é uma aplicação inspirada no método pomodoro, onde foi aplicado uma gamificação para tornalo mais atrativo.
 
 ![image](https://user-images.githubusercontent.com/31297561/126340208-fd22e9a0-8aa4-460f-9a22-4d9aa7a90542.png)
 ![image](https://user-images.githubusercontent.com/31297561/126340310-dd08d217-3421-43d1-bc22-da17073573c7.png)
